@@ -1,0 +1,9 @@
+{
+    "UrlTemplate" : "http://a.tile.thunderforest.com/transport/%z/%x/%y@2x.png?apikey=7a7fa26cfb654a4bbb9dbf51bf015b02",
+    "ImageFormat" : "png",
+    "QImageFormat" : "Indexed8",
+    "ID" : "thf-transit-hires",
+    "MaximumZoomLevel" : 20,
+    "MapCopyRight" : "<a href='http://www.thunderforest.com/'>Thunderforest</a>",
+    "DataCopyRight" : "<a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> contributors"
+}
