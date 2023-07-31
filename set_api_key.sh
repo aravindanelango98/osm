@@ -1,6 +1,6 @@
 if [ -z "$1" ]
 then
-    echo "Usage: ./set_api_key.sh your_api_key"
+    echo "Usage: ./set_api_key.sh 7a7fa26cfb654a4bbb9dbf51bf015b02"
     exit -1
 fi
 echo "Setting API key to $1"
